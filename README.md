@@ -22,7 +22,6 @@
 </p>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
-###About Me
 
 - Love for science, innovation and history.
 - Passionate with problem-solving and daily routines automation.
