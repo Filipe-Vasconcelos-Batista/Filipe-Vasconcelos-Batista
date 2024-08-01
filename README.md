@@ -34,4 +34,4 @@
 
 <h2 align="left"> Let's connect:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-FilipeVasconcelosBatista-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filipevasconcelosbatista/)](https://www.linkedin.com/in/filipevasconcelosbatista)  [![Instagram Badge](https://img.shields.io/badge/-@FilipeBatista696-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/filipebatista696/)](https://www.instagram.com/filipebatista696)
+[![Linkedin Badge](https://img.shields.io/badge/-FilipeVasconcelosBatista-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filipevasconcelosbatista/)](https://www.linkedin.com/in/filipevasconcelosbatista) 
