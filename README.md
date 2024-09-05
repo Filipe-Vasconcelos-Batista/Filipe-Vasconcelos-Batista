@@ -25,11 +25,11 @@
 
 - Love for science, innovation and history.
 - Passionate with problem-solving and daily routines automation.
-- Currently: finishing Web Development at Turing College
+- Currently: Working on a password Management system for my home server, maybe making it freeware in the process for everyone to use.
 - Coding since 2022
 - Living in Luxembourg with my  wife ,daughter and two cats.
--  I'm a Web Developer With an industrial background
--  Always ready to collaborate for Dev Experiments
+- I'm a Web Developer With an industrial background
+- Always ready to collaborate for Dev Experiments
 
 
 <h2 align="left"> Let's connect:</h2>
