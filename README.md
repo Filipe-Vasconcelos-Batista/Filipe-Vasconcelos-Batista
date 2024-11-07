@@ -36,7 +36,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-FilipeVasconcelosBatista-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filipevasconcelosbatista/)](https://www.linkedin.com/in/filipevasconcelosbatista) 
 
-
+Or visit my [portfolio](https://portfolio.filipehome.pt)
 <h2 align="left"> My Portfolio:</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-FilipeVasconcelosBatista-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filipevasconcelosbatista/)](https://portfolio.filipehome.pt) 
