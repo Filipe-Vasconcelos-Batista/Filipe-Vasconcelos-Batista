@@ -20,7 +20,7 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
     <a href="https://www.docker.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> </a>
 </p>
-
+<h2 align="left"> My [Portfolio](https://portfolio.filipehome.pt):</h2>
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - Love for science, innovation and history.
@@ -35,8 +35,3 @@
 <h2 align="left"> Let's connect:</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-FilipeVasconcelosBatista-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filipevasconcelosbatista/)](https://www.linkedin.com/in/filipevasconcelosbatista) 
-
-Or visit my [portfolio](https://portfolio.filipehome.pt)
-<h2 align="left"> My Portfolio:</h2>
-
-[![Linkedin Badge](https://img.shields.io/badge/-FilipeVasconcelosBatista-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filipevasconcelosbatista/)](https://portfolio.filipehome.pt) 
