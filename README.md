@@ -22,6 +22,12 @@ Symfony and Vue, and before that I worked in industrial management.
   federated chat. It implements the Signal protocol (X3DH + Double Ratchet) from scratch in
   TypeScript and has offline delivery with per-device acks. FastAPI, WebSockets,
   PostgreSQL, React Native/Expo. *MVP (v0.1.0); federation in progress.*
+- **[Light Downloader](https://github.com/Filipe-Vasconcelos-Batista/lightdownloader)**: Linux
+  app that downloads whole 1fichier lists in order and organises them for Jellyfin, detecting
+  series, seasons and episodes and naming folders with TMDB data. Python (Flask) backend, React
+  frontend, packaged as a Flatpak with a one-file installer.
+  [Download page](https://filipe-vasconcelos-batista.github.io/lightdownloader/).
+
 - **[PasswordKeeper](https://github.com/Filipe-Vasconcelos-Batista/PasswordKeeper)**: password
   manager for my home server.
 - **[Charmify](https://github.com/Filipe-Vasconcelos-Batista/Charmify)**: booking system for
